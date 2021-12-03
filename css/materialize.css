@@ -4739,13 +4739,13 @@ small {
   padding: 24px;
   margin: 1rem 0 1rem 0;
   border-radius: 2px;
-  background-color: #fff;
+  background-color: #9c9c9c;
 }
 
 .card {
   position: relative;
   margin: 0.5rem 0 1rem 0;
-  background-color: #fff;
+  background-color: #9c9c9c;
   -webkit-transition: -webkit-box-shadow .25s;
   transition: -webkit-box-shadow .25s;
   transition: box-shadow .25s;
@@ -4875,7 +4875,7 @@ small {
 }
 
 .card .card-image .card-title {
-  color: #fff;
+  color: #9c9c9c;
   position: absolute;
   bottom: 0;
   left: 0;
