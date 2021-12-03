@@ -5,7 +5,6 @@ $(window).on('load', function () {
     $('.jBawah').addClass('jMuncul');
 });
 
-
 $(window).scroll(function (){
     var wScroll = $(this).scrollTop();
     
@@ -19,9 +18,6 @@ $(window).scroll(function (){
         'transform' : 'translate(0px, '+ wScroll*5.3 +'%)'
     });
 
-
-
-
     // Passion
     if( wScroll > $('.passion').offset().top - 350) {
         $('.passion .material-icons').each(function(i) {
@@ -29,11 +25,7 @@ $(window).scroll(function (){
                 $('.passion .material-icons').eq(i).addClass('muncul');
             }, 300 * (i+1) );
         });
-
-        
-        
     }
-
     // Work
     if( wScroll > $('.work').offset().top - 350) {
         $('.work .port').each(function(i) {
@@ -41,10 +33,5 @@ $(window).scroll(function (){
                 $('.work .port').eq(i).addClass('timbul');
             }, 300 * (i+1) );
         });
-
-        
-        
     }
-
-
 });
