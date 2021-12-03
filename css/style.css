@@ -57,7 +57,7 @@ body {
 /* About */
 
 .about {
-    margin: 400px 0;
+    margin: 50px 0;
 }
 
 .about img {
@@ -102,12 +102,12 @@ body {
 
 /* experience */
 .experience {
-    margin: 400px 0 50px;
+    margin: 50px 0 140px 0;
 }
 
 .experience img {
     width: 90px;
-    padding: 25px;
+    padding: 30px;
     filter: grayscale(1) drop-shadow(1px 1px 1px rgba(88, 88, 88, 0.8));
 }
 
