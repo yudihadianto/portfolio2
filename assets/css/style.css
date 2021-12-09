@@ -1096,3 +1096,9 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+.rounded-image{
+    border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+}
