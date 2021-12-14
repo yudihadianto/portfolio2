@@ -7,7 +7,7 @@
 <br>
 </div>
 
-## Haaaiiii..., I'm [Yudi Hadianto](http://yudihadianto.unaux.com/) 👋
+## Haaaiiii..., I'm [Yudi Hadianto](http://yudihadianto.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudihadianto&label=Views&color=blue&style=plastic" alt="yudihadianto" /> </p>
 
